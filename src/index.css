@@ -6,17 +6,18 @@ body{
 
 .img-principal{
   width: 100%;
-  position: absolute;
+  position: fixed;
  
 }
 
 .menu-principal-navegação{
   display: flex;
-  position: absolute;
+  position: relative;
   height: 20vh;
   width: 100%;
   align-items: center;
-  justify-content:space-between;
+  justify-content: space-between;
+  
   
 }
 
@@ -43,6 +44,8 @@ a{
   
 
 }
+
+
 
 
 
