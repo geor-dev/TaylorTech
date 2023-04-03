@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+}
+
+.formulario{
+    display: flex;
+    width: 70%;
+    height: 80vh;
+    margin: 4% auto;
+    box-shadow: 1px 1px 5px;
+}
+
+.box-1{
+    display: flex;
+    flex-direction: column;
+    background-color: #A0B3F4;
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-2{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.titulo{
+    color: #4980DC;
+}
+
+.logo-box{
+    width: 50%;
+    height: 20vh;
+}
+
+.caixa-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    height: 60vh;
+    justify-content: space-between;
+}
+
+.apps{
+    display: flex;
+    width: 75%;
+    background-color:#E9E9E9;
+    height: 7vh;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px;
+
+}
+
+.link-app{
+    width: 8%;
+    height: 4vh;
+}
+
+h2{
+    color: #D9D9D9;
+}
+
+input{
+    background-color: #E9E9E9;
+    padding-left: 10px;
+    width: 70%;
+    height: 7vh;
+    border: none;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+.button-login{
+    background-color: #144250;
+    width: 72%;
+    height: 7vh;
+    border-radius: 4px;
+    color: white;
+    font-weight: 500;
+}
+
+h4{
+    font-weight: 200;
+}
+
+.link-pagina-register{
+    color: black;
+    font-weight: 600;
+    padding: 0;
+}

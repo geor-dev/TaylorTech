@@ -2,7 +2,11 @@
     display: flex;
     position: relative;
     margin: 150px 40px 0px 40px;
+<<<<<<< HEAD
     height: 40vh;
+=======
+    height: 46vh;
+>>>>>>> 3192f7b (versao0304)
     flex-direction: column;
     
 }
@@ -24,7 +28,11 @@ p{
     line-height: 1.6em;
 }
 
+<<<<<<< HEAD
 button{
+=======
+.button-sb{
+>>>>>>> 3192f7b (versao0304)
     width: 10vw;
     height: 6.5vh;
     background-color: #035AA6;
