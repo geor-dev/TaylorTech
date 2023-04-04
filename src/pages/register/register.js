@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-function RegisterPage () {
-    return(
-        <h1>A verdadeira informática são os amigos que fazemos pelo caminho</h1>
-=======
+
+
 import React from "react";
 import '../../components/login_register.css';
 import logo_box from'../../assets/Logo_SemFundo_2.png'
@@ -55,7 +52,7 @@ function RegisterPage () {
     
     
             </div>
->>>>>>> 3192f7b (versao0304)
+
     )
 }
 

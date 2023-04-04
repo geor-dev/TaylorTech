@@ -1,17 +1,6 @@
 body{
     margin:0;
-<<<<<<< HEAD
-    background-color: black;
-  
-  }
-  
-  .img-principal{
-    width: 100%;
-    position: fixed;
-   
-  }
-  
-=======
+
   
   }
   .fundo{
@@ -22,7 +11,7 @@ body{
   
   
   
->>>>>>> 3192f7b (versao0304)
+
   .menu-principal-navegação{
     display: flex;
     position: relative;
@@ -31,10 +20,6 @@ body{
     align-items: center;
     justify-content: space-between;
     
-<<<<<<< HEAD
-    
-=======
->>>>>>> 3192f7b (versao0304)
   }
   
   li{
