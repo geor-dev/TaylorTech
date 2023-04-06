@@ -37,7 +37,7 @@ function Sign(){
                 <input type="text" placeholder="Nome do Usuário" />
                 <input type="text" placeholder="Senha"/>
                 <button className="button-login">LOGAR</button> 
-                <h4>Não possui conta?<NavLink
+                <h4>Não possui CONTA?<NavLink
                 className="link-pagina-register"
                 activeClassName=""
                 to="/register-page"
